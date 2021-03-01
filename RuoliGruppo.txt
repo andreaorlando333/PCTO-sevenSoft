@@ -2,5 +2,5 @@ Ruoli del gruppo 7soft:
 
 Andrea Orlando: Graphic Designer, capogruppo
 Sebastiano Brignone: Game Designer 
-Zakaria Bongiovanni: Level Designer 
-Federico Giraudo: Level Designer, FX and Sound Designer
+Zakaria Bongiovanni: Level Designer 1
+Federico Giraudo: Level Designer 2, FX and Sound Designer
