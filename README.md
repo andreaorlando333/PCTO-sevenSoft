@@ -19,6 +19,14 @@ Il gioco da noi progettato consiste nell'abbattere delle meteore con un cannone 
  
  
 ## Gruppo di lavoro
-Componenti del gruppo: **Orlando Andrea** (graphic designer), **Bongiovanni Zakaria** (level designer), **Brignone Sebastiano** (game and level designer), **Giraudo Federico** (Sound FX designer, level designer). 
+Componenti del gruppo: 
+
+**Orlando Andrea** (graphic designer)
+
+**Bongiovanni Zakaria** (level designer)
+
+**Brignone Sebastiano** (game and level designer)
+
+**Giraudo Federico** (Sound FX designer, level designer). 
 
 Si ringrazia: *IIT, Associazione Italiana Sclerosi Multipla, Università di Genova, Wondertech.*
