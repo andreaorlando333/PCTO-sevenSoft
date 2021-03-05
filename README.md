@@ -16,6 +16,10 @@ Il gioco si basa sull'esercizio che riguarda il movimento del busto dell'utente 
  ![alt-text](https://github.com/andreaorlando333/PCTO-sevenSoft/blob/main/bozze%20progetto/Textures/brick-wall%20(1).png "Texture base del muro.")
  
  *La texture base del muro del castello.*
+  
+ ![alt-text](https://github.com/andreaorlando333/PCTO-sevenSoft/blob/main/bozze%20progetto/Textures/asteroid.png "Meteorite.")
+ 
+ *La prima versione del meteorite.*
  
  
 ## Gruppo di lavoro
