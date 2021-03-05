@@ -9,7 +9,7 @@ Il gioco si basa sull'esercizio che riguarda il movimento del busto dell'utente 
  ## Textures
  Le textures sono state create interamente utilizzando Photoshop e vengono continuamente aggiornate. Di seguito, le prime versioni delle immagini:
  
- ![alt-text](https://github.com/andreaorlando333/PCTO-sevenSoft/blob/main/bozze%20progetto/Textures/cannone.jpg "Prima versione del cannone.")
+ ![alt-text](https://github.com/andreaorlando333/PCTO-sevenSoft/blob/main/bozze%20progetto/Textures/cannone2.png "Prima versione del cannone.")
  
  *La prima versione del cannone.*
  
