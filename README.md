@@ -10,10 +10,12 @@ Il gioco da noi progettato consiste nell'abbattere delle meteore con un cannone 
  Le textures sono state create interamente utilizzando Photoshop e vengono continuamente aggiornate. Di seguito, le prime versioni delle immagini:
  
  ![alt-text](https://github.com/andreaorlando333/PCTO-sevenSoft/blob/main/bozze%20progetto/Textures/cannone.jpg "Prima versione del cannone.")
- La prima versione del cannone.
+ 
+ *La prima versione del cannone.*
  
  ![alt-text](https://github.com/andreaorlando333/PCTO-sevenSoft/blob/main/bozze%20progetto/Textures/brick-wall%20(1).png "Texture base del muro.")
- La texture base del muro del castello.
+ 
+ *La texture base del muro del castello.*
  
  
 ## Gruppo di lavoro
