@@ -34,3 +34,5 @@ Componenti del gruppo:
 **Giraudo Federico** (Sound FX designer, level designer). 
 
 Si ringrazia: *IIT, Associazione Italiana Sclerosi Multipla, Università di Genova, Wondertech.*
+
+*Ringraziamo anche il prof. Lerda e il prof. Conradi per la disponibilità nelle consulenze.*
