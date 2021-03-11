@@ -1,15 +1,13 @@
-# Python program for Detection of a  
-# specific color(blue here) using OpenCV with Python 
+# Python Program for Face Tracking.
+# Written by Zakaria Bongiovanni, 7soft.
+
 import cv2
 import argparse
 import numpy as np
 import socket
 import struct
 
-
-
 face_cascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
-
 
 def face_tracking(frame):
     image_gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
@@ -23,8 +21,7 @@ s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 
 kernel = np.ones((8 ,8), np.uint8)
 
-# Webcamera no 0 is used to capture the frames
-#  
+ 
 cap = cv2.VideoCapture(0)
   
   
