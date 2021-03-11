@@ -77,7 +77,7 @@ class Cannon { //classe cannone
   }
   
   public void move(){ //funzione che controlla i movimenti del cannone
-    this.player_x= map(nose_x,20,400,700,0); //salva la posizione attuale dell'utente
+    this.player_x= map(nose_x,45,410,width,0); //salva la posizione attuale dell'utente
     image(cannon,x,y,w,h); //disegna il cannone
     if (x<player_x){  //muovere il cannone finchè non raggiunge la posizione del giocatore
         x=x+5;
