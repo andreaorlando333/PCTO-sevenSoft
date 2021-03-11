@@ -22,7 +22,7 @@ class Cannon { //classe cannone
     this.heart1 = loadImage("Media/1cuore.png");
     this.heart2 = loadImage("Media/2cuori.png");
     this.heart3 = loadImage("Media/3cuori.png");
-    this.player_x= map(nose_x,45,410,width,0); //proporzione tra la grandezza dell'inquadratura del programma python e la larghezza dellos schermo
+    this.player_x= map(nose_x,45,410,width,0); //proporzione tra la grandezza dell'inquadratura del programma python e la larghezza dello schermo
     this.life=3;
     this.score=0;
   }
