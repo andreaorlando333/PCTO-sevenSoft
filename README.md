@@ -1,7 +1,7 @@
 # PCTO-sevenSoft
-Repository contenente il materiale per il PCTO.
+Repository for PCTO project. (7soft) 
 
-## Leggi la wiki:
-Il file README è stato spostato sulla Wiki.
+## Read the wiki:
+The README file has been moved to the Wiki
 
-[Clicca qui per aprire la Wiki](https://github.com/andreaorlando333/PCTO-sevenSoft/wiki)
+[Click here!](https://github.com/andreaorlando333/PCTO-sevenSoft/wiki)
